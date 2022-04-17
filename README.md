@@ -1,2 +1,2 @@
 # ZAlloc
-A library that provides Zig-like allocator API for C++.
+A library that provides an alternative allocation stratefy for C++.
